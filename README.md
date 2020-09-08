@@ -6,4 +6,4 @@ Here, I write my nodes about milestones of data science project. There are can b
 
 # Reference and credits
 
-All information is taken from https://www.coursera.org/learn/competitive-data-science/ this course.
+All information is taken from [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/) this course.
