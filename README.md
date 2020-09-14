@@ -1,8 +1,17 @@
 # Data Science Project Approach
 
-# Basic plan when we encounter data science project
+# Data Science Project Work Flow. Sequence is important.
 
-Here, I write my nodes about milestones of data science project. There are can be some implementation tips, general overview, good practices and some inutitional knowledge. 
+1. Read from 'ml_algorithms' folder, to recap ml algorithms.
+
+2. Read and Implement from 'preprocessing_and_feature_engineering' folder to clean data, deal with missing data, basic feaeture engineering from text, image.
+
+3. EDA is important to get sense of data. Read and Implement EDA from 'eda' folder.
+
+4. Validate and split your data right. Do not overfit, check with plot. Read and implement 'validation' folder.
+
+5. Constract baseline for every metric(evaluation metric) to know how well you performing versus constant model. If not better than baseline, then model is bad. Read and implement 'metrics_optimization' folder.
+
 
 # Reference and credits
 
